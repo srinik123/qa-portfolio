@@ -69,4 +69,4 @@ Folder: /Automation-Demo
 Contact
 
 LinkedIn: https://linkedin.com
-Email: your-email
+Email: svrkqa@gmail.com
